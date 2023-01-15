@@ -16,7 +16,7 @@ This is a <a href="https://nextjs.org/">Next.js</a> starter kit that uses <a hre
 You can clone & create this repo with the following command
 
 ```bash
-npx create-next-app nextjs-typescript-starter --example "https://github.com/MarcusviniciusLsantos/nextjs-postgresql-auth-starter.git"
+npx create-next-app nextjs-typescript-starter --example "https://github.com/MarcusviniciusLsantos/nextjs-postgresql-auth-starter"
 ```
 
 ## Getting Started
